@@ -5,52 +5,34 @@
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="1" data-path="povtorennya.html">
-            <a href="povtorennya.html">
+    <li class="chapter " data-level="1" data-path="info_bezpeka.html">
+            <a href="info_bezpeka.html">
                     <b></b>
-                Правила поведінки в комп’ютерному класі. Повторення вивченого у 8 класі
+                Програмне забезпечення та інформаційна безпека
             </a>
     </li>
-    <li class="chapter " data-level="2" data-path="programne_zabezpechennya.html">
-            <a href="programne_zabezpechennya.html">
+    <li class="chapter " data-level="2" data-path="3d.html">
+            <a href="3d.html">
                     <b></b>
-                Системне та службове програмне забезпечення
+                3D-графіка
             </a>
     </li>
-    <li class="chapter " data-level="3" data-path="tekst_procesor.html">
-            <a href="tekst_procesor.html">
+    <li class="chapter " data-level="3" data-path="tabl_proccesor.html">
+            <a href="tabl_proccesor.html">
                     <b></b>
-                Текстовий процесор
+                Опрацювання табличних даних
             </a>
     </li>
-    <li class="chapter " data-level="4" data-path="tabl_procesor.html">
-            <a href="tabl_procesor.html">
+    <li class="chapter " data-level="4" data-path="bazy_dannyh.html">
+            <a href="bazy_dannyh.html">
                     <b></b>
-                Табличний процесор
+                Бази даних. Системи керування базами даних
             </a>
     </li>
-    <li class="chapter " data-level="5" data-path="algorytmy_ta_programy.html">
-            <a href="algorytmy_ta_programy.html">
+    <li class="chapter " data-level="5" data-path="osnovy_programuvannja.html">
+            <a href="osnovy_programuvannja.html">
                     <b></b>
-                Алгоритми і програми
-            </a>
-    </li>
-    <li class="chapter " data-level="6" data-path="veb_resursy.html">
-            <a href="veb_resursy.html">
-                    <b></b>
-                Створення та публікація веб-ресурсів
-            </a>
-    </li>
-    <li class="chapter " data-level="7" data-path="proektna_diyalnyst.html">
-            <a href="proektna_diyalnyst.html">
-                    <b></b>
-                Проектна діяльність
-            </a>
-    </li>
-    <li class="chapter " data-level="8" data-path="rezerv.html">
-            <a href="rezerv.html">
-                    <b></b>
-                Повторення, узагальнення, резервний час
+                Основи програмування
             </a>
     </li>
 </ul>
