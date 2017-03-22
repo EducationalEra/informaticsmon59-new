@@ -5,24 +5,9 @@
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="1" data-path="internet_resursy.html">
-            <a href="internet_resursy.html">
-                    <b></b>
-                Електронна пошта та спільна робота в Інтернеті
-            </a>
-    </li>
-    <li class="chapter " data-level="2" data-path="tabl_proccesor.html">
-            <a href="tabl_proccesor.html">
-                    <b></b>
-                Опрацювання табличних даних
-            </a>
-    </li>
-    <li class="chapter " data-level="3" data-path="algorytmy_ta_programy.html">
-            <a href="algorytmy_ta_programy.html">
-                    <b></b>
-                Основи програмування
-            </a>
-    </li>
+    <li><a href="./internet_resursy.md">Електронна пошта та спільна робота в Інтернеті</a></li>
+    <li><a href="./tabl_proccesor.md">Опрацювання табличних даних</a></li>
+    <li><a href="./algorytmy_ta_programy.md">Основи програмування</a></li>
 </ul>
 
 <div class="js-hypercomments-container">
